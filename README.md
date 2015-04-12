@@ -1,5 +1,3 @@
-# alg4_Collinear_Points
-
 #Programming Assignment 3: Pattern Recognition
 
 

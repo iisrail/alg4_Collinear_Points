@@ -1,6 +1,6 @@
 # alg4_Collinear_Points
 
-Programming Assignment 3: Pattern Recognition
+#Programming Assignment 3: Pattern Recognition
 
 
 Write a program to recognize line patterns in a given set of points.
